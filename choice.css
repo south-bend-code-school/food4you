@@ -1,0 +1,44 @@
+body {
+background-image: url(http://blog.hostbaby.com/backgrounds/bg_lightwoodfloor.jpg);
+/*border: 10px solid;*/
+}
+
+h1 {
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Hind', sans-serif;
+}
+
+.floating-box {
+  display: inline-block;
+  float: left;
+  width: 400px;
+  height: 400px;
+  margin: 10px;
+  border: 1px solid #73AD21;
+}
+
+.button{
+  background-color:white;
+  color: black;
+}
+button:hover {
+  background-color:grey;
+  color:white;
+}
+
+.image {
+  display: inline-block;
+  width: 49%;
+  height: 70vh;
+}
+
+#image1 img {
+  width: 90%;
+  margin-left:5%;
+}
+
+#image2 img {
+  width: 90%;
+  margin-left:5%;
+}

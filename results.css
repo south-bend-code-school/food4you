@@ -1,0 +1,94 @@
+body {
+    color: white;
+    background-color: #806517;
+    font-family: Helvetica;
+    /*text-align:center;*/
+    padding-bottom: 10px;
+    padding-top: -10px;
+    margin-bottom: 15px;
+    margin-top: 20px
+    font-size: 23px;
+  }
+
+.intro {
+    color:white;
+    padding: 40px;
+    padding-bottom: 10;
+    padding-top: 100px;
+    margin-bottom: 100px;
+    border: 10px solid ;
+    font-size: 20px;
+    background-color: #806517;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+          }
+
+
+
+
+button{
+    height: 75px;
+    width: 175px;
+    font-size: 24px;
+    color:maroon;
+    background-color: #
+    border: 300px solid white;
+    border-radius: 10px;
+    transition: 1s;
+    margin-right: 1400px;
+
+        }
+
+.boxes{
+  border: 10px solid;
+  padding-bottom: 10px;
+  padding-top: -10px;
+  margin-bottom: 15px;
+  margin-top: 20px;
+  text-align:center;
+}
+
+.address{
+  display: inline-block;
+  text-align: right;
+  width: 100%;
+  font-size: 43px;
+}
+
+.phonenumber{
+  display: inline-block;
+  text-align: right;
+  width: 100%;
+  font-size: 43px;
+}
+
+.title {
+  display: inline-block;
+  text-align: left;
+  width: 100%;
+  text-decoration: underline;
+  font-size: 60px;
+}
+
+.description{
+  display: inline-block;
+  text-align: left;
+  font-size: 43px;
+}
+
+.hours{
+  display: inline-block;
+  text-align: right;
+  width: 100%;
+  font-size: 43px;
+}
+
+/*h1{text-align: left;
+}
+
+p{text-align: center left;
+  font-weight:900;
+}*/

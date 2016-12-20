@@ -1,0 +1,52 @@
+body {
+  background-image: url('./images/burgers.jpg');
+  font-family: 'Abhaya Libre', serif;
+  color: white;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.border {
+  border-style: dotted;
+}
+h1{
+  text-align: center;
+}
+.clickbelow{
+  font-size: 45px;
+}
+
+button {
+  width: 600px;
+  height:100px;
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  background-image: url("");
+  font-size: 36px;
+  text-decoration: none;
+  margin-top: 90px;
+  font-family: ''
+}
+  .center{
+    font-size: 85px;
+    text-align: center;
+  }
+  button:hover {
+    background-color: grey;
+    color:white;
+  }
+
+  #image1 {
+    width: 45%;
+    margin-left: 2.5%;
+    background-size: cover;
+    height: 500px;
+  }
+
+  #image2 {
+    background-size: cover;
+    width: 45%;
+    margin-left: 7.5%;
+    height: 500px;
+  }
